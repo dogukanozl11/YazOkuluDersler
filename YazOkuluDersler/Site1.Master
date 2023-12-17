@@ -15,13 +15,13 @@
     <nav class="navbar navbar-inverse">
         <div class="container-fluid">
             <div class="navbar-header">
-                <a class="navbar-brand" href="WebForm1.aspx">Yaz Okulu Ders Kayıt</a>
+                <a class="navbar-brand" href="#">Yaz Okulu Ders Kayıt</a>
             </div>
             <ul class="nav navbar-nav">
                 <li><a href="#">Ana Sayfa</a></li>
                 <li><a href="OgrenciListesi.aspx">Öğrenciler</a></li>
-                <li><a href="#">Öğretmenler</a></li>
-                <li><a href="#">Dersler</a></li>
+                <li><a href="WebForm1.aspx">Yeni Kayıt</a></li>
+                <li><a href="Dersler.aspx">Dersler</a></li>
                 <li><a href="#">Kontenjanlar</a></li>
                 <li><a href="#">Yardım</a></li>
             </ul>
